@@ -1,0 +1,14 @@
+{
+  "name": "bkero-rubygems_mirror",
+  "version": "0.1.0",
+  "author": "bkero",
+  "summary": "Installs, configures, and updates a rubygem mirror",
+  "license": "Apache-2.0",
+  "source": "https://github.com/bkero/bkero-rubygems_mirror",
+  "project_page": "https://github.com/bkero/bkero-rubygems_mirror",
+  "issues_url": "https://github.com/bkero/bkero-rubygems_mirror/issues",
+  "dependencies": [
+  ],
+  "data_provider": null
+}
+
