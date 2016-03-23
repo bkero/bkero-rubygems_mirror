@@ -26,8 +26,7 @@ Puppet version 3.x.
 
 ## Setup
 
-### Setup Requirements **OPTIONAL**
-
+### Setup Requirements
 The host should be running Ubuntu (trusty) or CentOS (7+), and have at least
 the parent directory of the data directory given.
 
@@ -82,6 +81,6 @@ There is no formal development process yet. If you would like to contribute
 please ping me (bkero on Freenode IRC). If you send me a Github pull request
 I might take a look at it.
 
-## Release Notes/Contributors/Etc. **Optional**
+## Release 0.1.0
 
-## Release 0.1.0: Initial release
+Initial release
